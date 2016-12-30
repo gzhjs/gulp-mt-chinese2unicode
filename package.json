@@ -17,7 +17,7 @@
   "author": "zhe-he",
   "license": "ISC",
   "repository": {
-    "git": "git@github.com:zhe-he/gulp-chinese2unicode.git"
+    "git": "git@github.com:gzhjs/gulp-mt-chinese2unicode.git"
   },
   "dependencies": {
     "gulp-util": "^3.0.7",
