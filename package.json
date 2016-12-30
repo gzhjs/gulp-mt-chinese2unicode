@@ -1,7 +1,6 @@
 {
   "name": "gulp-mt-chinese2unicode",
   "version": "1.0.0",
-  "version": "1.0.1",
   "description": [
     "中文转换成unicode"
   ],
