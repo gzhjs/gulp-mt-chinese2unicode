@@ -14,7 +14,7 @@
     "gbk",
     "gb2312"
   ],
-  "author": "zhe-he",
+  "author": "gzhjs",
   "license": "ISC",
   "repository": {
     "git": "git@github.com:gzhjs/gulp-mt-chinese2unicode.git"
